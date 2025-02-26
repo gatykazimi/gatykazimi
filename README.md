@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
+### My name is Gaty Kazimi 😊
+I'm currently a student at the University of Waterloo studying Nanotechnology Engineering, entering my fourth year in Fall 2025. 
 
 <!--
 **gatykazimi/gatykazimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
