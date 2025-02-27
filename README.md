@@ -1,6 +1,13 @@
 ## Hi there! 👋
 ### My name is Gaty Kazimi 😊
-I'm currently a student at the University of Waterloo studying Nanotechnology Engineering, entering my fourth year in Fall 2025. 
+I'm currently a student at the University of Waterloo studying Nanotechnology Engineering, entering my fourth year in Fall 2025.
+
+### What am I working on
+I'm learning Web Development and Machine Learning with TensorFlow on freeCodeCamp.
+
+### Achievements
+I've recently earned a certificate in Microsoft's Foundational C# course (you can find the challenge projects I completed in the CSharpProjects repo)
+
 
 <!--
 **gatykazimi/gatykazimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
